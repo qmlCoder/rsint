@@ -1,0 +1,17 @@
+[package]
+name = "rsint"
+version = "0.1.0"
+authors = ["C2Rust"]
+edition = "2021"
+description = "Mechanical C→Rust transliteration of libcint (analytical Gaussian integrals), generated with c2rust"
+license = "Apache-2.0"
+readme = "README.md"
+keywords = ["quantum-chemistry", "integrals", "gaussian", "libcint", "ffi"]
+categories = ["science", "api-bindings"]
+
+[lib]
+name = "rsint"
+path = "lib.rs"
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]

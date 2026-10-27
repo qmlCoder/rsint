@@ -1,0 +1,3 @@
+[toolchain]
+channel = "nightly-2025-02-01" # 与 c2rust 转译产物实际验证通过的版本一致
+components = ["rustfmt"]

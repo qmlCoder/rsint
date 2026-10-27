@@ -1,0 +1,28 @@
+# --- Rust / cargo build artifacts ---
+target/
+**/target/
+*.rlib
+*.rmeta
+*.d
+
+# --- C / cmake build artifacts ---
+build/
+**/build/
+*.o
+*.a
+*.so
+*.so.*
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- data files duplicated from libcint (restore with scripts/sync_dat.sh) ---
+src_work/*.dat
+
+# --- early experiments (cleanable, see AGENTS.md) ---
+rust_out/
+rust_out_e/
+rust_test/
+build_cc_work.json

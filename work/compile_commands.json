@@ -1,0 +1,207 @@
+[
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/c2f.c.o -c /home/fly/code/rsint/src_work/c2f.c",
+  "file": "/home/fly/code/rsint/src_work/c2f.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/cart2sph.c.o -c /home/fly/code/rsint/src_work/cart2sph.c",
+  "file": "/home/fly/code/rsint/src_work/cart2sph.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/cint1e.c.o -c /home/fly/code/rsint/src_work/cint1e.c",
+  "file": "/home/fly/code/rsint/src_work/cint1e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/cint2e.c.o -c /home/fly/code/rsint/src_work/cint2e.c",
+  "file": "/home/fly/code/rsint/src_work/cint2e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/cint_bas.c.o -c /home/fly/code/rsint/src_work/cint_bas.c",
+  "file": "/home/fly/code/rsint/src_work/cint_bas.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/fblas.c.o -c /home/fly/code/rsint/src_work/fblas.c",
+  "file": "/home/fly/code/rsint/src_work/fblas.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/g1e.c.o -c /home/fly/code/rsint/src_work/g1e.c",
+  "file": "/home/fly/code/rsint/src_work/g1e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/g2e.c.o -c /home/fly/code/rsint/src_work/g2e.c",
+  "file": "/home/fly/code/rsint/src_work/g2e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/optimizer.c.o -c /home/fly/code/rsint/src_work/optimizer.c",
+  "file": "/home/fly/code/rsint/src_work/optimizer.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/fmt.c.o -c /home/fly/code/rsint/src_work/fmt.c",
+  "file": "/home/fly/code/rsint/src_work/fmt.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/rys_wheeler.c.o -c /home/fly/code/rsint/src_work/rys_wheeler.c",
+  "file": "/home/fly/code/rsint/src_work/rys_wheeler.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/eigh.c.o -c /home/fly/code/rsint/src_work/eigh.c",
+  "file": "/home/fly/code/rsint/src_work/eigh.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/rys_roots.c.o -c /home/fly/code/rsint/src_work/rys_roots.c",
+  "file": "/home/fly/code/rsint/src_work/rys_roots.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/find_roots.c.o -c /home/fly/code/rsint/src_work/find_roots.c",
+  "file": "/home/fly/code/rsint/src_work/find_roots.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/cint2c2e.c.o -c /home/fly/code/rsint/src_work/cint2c2e.c",
+  "file": "/home/fly/code/rsint/src_work/cint2c2e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/g2c2e.c.o -c /home/fly/code/rsint/src_work/g2c2e.c",
+  "file": "/home/fly/code/rsint/src_work/g2c2e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/cint3c2e.c.o -c /home/fly/code/rsint/src_work/cint3c2e.c",
+  "file": "/home/fly/code/rsint/src_work/cint3c2e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/g3c2e.c.o -c /home/fly/code/rsint/src_work/g3c2e.c",
+  "file": "/home/fly/code/rsint/src_work/g3c2e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/cint3c1e.c.o -c /home/fly/code/rsint/src_work/cint3c1e.c",
+  "file": "/home/fly/code/rsint/src_work/cint3c1e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/g3c1e.c.o -c /home/fly/code/rsint/src_work/g3c1e.c",
+  "file": "/home/fly/code/rsint/src_work/g3c1e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/breit.c.o -c /home/fly/code/rsint/src_work/breit.c",
+  "file": "/home/fly/code/rsint/src_work/breit.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/cint1e_a.c.o -c /home/fly/code/rsint/src_work/cint1e_a.c",
+  "file": "/home/fly/code/rsint/src_work/cint1e_a.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/cint3c1e_a.c.o -c /home/fly/code/rsint/src_work/cint3c1e_a.c",
+  "file": "/home/fly/code/rsint/src_work/cint3c1e_a.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/cint1e_grids.c.o -c /home/fly/code/rsint/src_work/cint1e_grids.c",
+  "file": "/home/fly/code/rsint/src_work/cint1e_grids.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/g1e_grids.c.o -c /home/fly/code/rsint/src_work/g1e_grids.c",
+  "file": "/home/fly/code/rsint/src_work/g1e_grids.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/breit1.c.o -c /home/fly/code/rsint/src_work/autocode/breit1.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/breit1.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/dkb.c.o -c /home/fly/code/rsint/src_work/autocode/dkb.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/dkb.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/gaunt1.c.o -c /home/fly/code/rsint/src_work/autocode/gaunt1.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/gaunt1.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/grad1.c.o -c /home/fly/code/rsint/src_work/autocode/grad1.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/grad1.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/grad2.c.o -c /home/fly/code/rsint/src_work/autocode/grad2.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/grad2.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/hess.c.o -c /home/fly/code/rsint/src_work/autocode/hess.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/hess.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/int3c1e.c.o -c /home/fly/code/rsint/src_work/autocode/int3c1e.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/int3c1e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/int3c2e.c.o -c /home/fly/code/rsint/src_work/autocode/int3c2e.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/int3c2e.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/intor1.c.o -c /home/fly/code/rsint/src_work/autocode/intor1.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/intor1.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/intor2.c.o -c /home/fly/code/rsint/src_work/autocode/intor2.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/intor2.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/intor3.c.o -c /home/fly/code/rsint/src_work/autocode/intor3.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/intor3.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/intor4.c.o -c /home/fly/code/rsint/src_work/autocode/intor4.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/intor4.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/deriv3.c.o -c /home/fly/code/rsint/src_work/autocode/deriv3.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/deriv3.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/int1e_grids1.c.o -c /home/fly/code/rsint/src_work/autocode/int1e_grids1.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/int1e_grids1.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/deriv4.c.o -c /home/fly/code/rsint/src_work/autocode/deriv4.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/deriv4.c"
+ },
+ {
+  "directory": "/home/fly/code/rsint/libcint/build",
+  "command": "/usr/bin/cc -DWITH_CINT2_INTERFACE -UHAVE_QUADMATH_H -Dcint_EXPORTS -I/home/fly/code/rsint/libcint/build/include -I/home/fly/code/rsint/libcint/build/src -I/home/fly/code/rsint/src_work -g -fPIC -std=gnu99 -o CMakeFiles/cint.dir/src/autocode/lresc.c.o -c /home/fly/code/rsint/src_work/autocode/lresc.c",
+  "file": "/home/fly/code/rsint/src_work/autocode/lresc.c"
+ }
+]
